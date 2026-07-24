@@ -38,8 +38,8 @@
     </a>
 </p>
       
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasfariasil&show_icons=true&theme=gotham)
+<!-- Copie e cole este código atualizado no seu README -->
+![VariableBee GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=douglasfariasil&show_icons=true&theme=gotham)
 
 </p>
 <hr/>
