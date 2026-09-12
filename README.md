@@ -1,42 +1,30 @@
-<!--divisor-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# Olá, eu sou o Douglas Faria 👋
 
-<!--título-->
+**Desenvolvedor Python | Engenharia de Dados & Backend**
+📍 São Paulo, SP | 📧 douglasfariasil@outlook.com
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block"> 👩🏻‍💻 Douglas Faria </h1></summary>
-</div>    
-<h2> Estudante de Desenvolvedora em Python </h2>
+Desenvolvedor focado em Engenharia de Dados e Backend com Python. Construo pipelines ETL automatizados, APIs RESTful e infraestruturas conteinerizadas em Docker para solucionar desafios reais de negócios e análise de dados.
 
-## Eu sou o Douglas Faria da Silva, e sou natural de São Paulo. atualmente estou estudando na escola DIO, gosto muito de tecnologia e espero um futuro brilhante na área de TI!
-  <td>
-<p> 
-      <br/>
-        - 🔭 Atualmente estou desempregado.
-      <br/>
-        - 🌱 E estou aprendendo a programação em Python, Git/GitHub.
-      <br/>
-        - 📫 Como entrar em contato comigo douglasfariasil@outlook.com
-     <td>
-  <hr/>
-    <h3 align="left">Conecte-se comigo:</h3>
-      <a href="https://www.linkedin.com/in/douglasfariasil">
-        <img
-            alt="linkedin"
-            title="linkedin"
-            src="https://img.shields.io/badge/linkedin-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-        />
-    </a>    
-    </a>
-    <a href="https://github.com/douglasfariasil?tab=repositories&sort=stargazers">
-       <img 
-            alt="GitHub" 
-            title="GitHub" 
-            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
-</p>
+---
+
+### 🚀 Principais Competências Técnicas
+
+- **Linguagens:** Python (Estruturas avançadas, POO, Pandas), SQL
+- **Bancos de Dados & Infra:** MySQL, PostgreSQL, Docker, Docker Compose
+- **Backend & APIs:** FastAPI, REST APIs, ORMs (SQLAlchemy / SQLModel)
+- **Engenharia & Dados:** Pipelines ETL, Automação de Relatórios (Excel/PDF), Power Query
+- **Ferramentas:** Git, GitHub, VS Code, Linux
+
+---
+
+### 📂 Projetos em Destaque
+
+- **[Projeto E-commerce SQL](https://github.com/douglasfariasil/projeto-ecommerce-sql):** Pipeline analítico completo de ponta a ponta. Infraestrutura MySQL 8.0 via Docker Compose, ingestão de dados e automação em Python/Pandas gerando relatórios corporativos multi-abas em Excel e PDF.
+- **[Pizzaria API](https://github.com/douglasfariasil/Pizzaria_API):** API REST robusta desenvolvida com Python e FastAPI, conteinerizada em Docker para gerenciamento de pedidos e regras de negócio.
+
+---
+
+💼 **LinkedIn:** [linkedin.com/in/douglasfaria-dev](https://linkedin.com/in/douglasfaria-dev)
       
 <!-- Copie e cole este código atualizado no seu README -->
 ![VariableBee GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=douglasfariasil&show_icons=true&theme=gotham)
