@@ -66,15 +66,18 @@ Projeto de automação de ETL e geração de relatórios corporativos a partir d
 ```
 --- 
 
-Subir o ambiente e banco de dados via Docker:
+- Subir o ambiente e banco de dados via Docker:
 
 docker compose up -d
 
 Isso irá inicializar o contêiner do MySQL 8.0 na porta correta e popular o banco automaticamente.
 
-Executar o script de automação ETL:
+- Executar o script de automação ETL:
 
 python gerar_relatorios.py
+
+Resultado:
+Os relatórios analíticos em Excel e PDF serão gerados na pasta /relatorios.
 
 --- 
 
