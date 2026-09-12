@@ -29,43 +29,12 @@ Desenvolvedor focado em Engenharia de Dados e Backend com Python. Construo pipel
 <!-- Copie e cole este código atualizado no seu README -->
 ![VariableBee GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=douglasfariasil&show_icons=true&theme=gotham)
 
+### 🛠️ Ferramentas & Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,fastapi,pandas,vscode,git,github" alt="Minha Stack Técnica" />
 </p>
-<hr/>
-<h3>Ferramentas e Linguagens</h3>
-<table>
-  <tbody>
-    <tr>
-      
- <td>
-        <img
-          src="https://skillicons.dev/icons?i=vscode"
-          height="40"
-          alt="vscode logo"
-        />
-        <img width="12" /> Visual Studio Code
-      </td>
-  <td> 
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-          height="54"
-          alt="python logo"
-        />
-        <img width="12" /> Python
-      </td>
- <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-          height="40"
-          alt="git logo"
-        />
-        <img width="12" /> Git
-      </td>
-  <td>
-        <img
-          src="https://skillicons.dev/icons?i=github"
-          height="40"
-          alt="github logo"
-        />
-        <img width="12" /> GitHub
-      </td>
-  
+
+- **Linguagens & Frameworks:** Python, FastAPI, Pandas
+- **Bancos de Dados & Infra:** PostgreSQL, MySQL, Docker, Docker Compose
+- **Análise & Ferramentas:** SQL, Power Query, Microsoft Excel, Git, VS Code
