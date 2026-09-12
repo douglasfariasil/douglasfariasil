@@ -38,3 +38,49 @@ Desenvolvedor focado em Engenharia de Dados e Backend com Python. Construo pipel
 - **Linguagens & Frameworks:** Python, FastAPI, Pandas
 - **Bancos de Dados & Infra:** PostgreSQL, MySQL, Docker, Docker Compose
 - **Análise & Ferramentas:** SQL, Power Query, Microsoft Excel, Git, VS Code
+
+# 🛒 Pipeline Analítico de E-Commerce (MySQL + Docker + Python)
+
+Projeto de automação de ETL e geração de relatórios corporativos a partir de uma base de dados de e-commerce com volumetria real.
+
+## 📌 Tecnologias Utilizadas
+- **Linguagem:** Python (Pandas)
+- **Banco de Dados:** MySQL 8.0
+- **Infraestrutura:** Docker & Docker Compose
+- **Saídas:** Relatórios automatizados em Excel (multi-abas) e PDF
+
+---
+
+## 🚀 Como Executar o Projeto com Docker
+
+### Pré-requisitos
+- [Docker](https://www.docker.com/) instalado
+- [Docker Compose](https://docs.docker.com/compose/) instalado
+
+### Passo a Passo
+
+1. **Clonar o repositório:**
+```bash
+   git clone [https://github.com/douglasfariasil/projeto-ecommerce-sql.git](https://github.com/douglasfariasil/projeto-ecommerce-sql.git)
+   cd projeto-ecommerce-sql
+```
+--- 
+
+Subir o ambiente e banco de dados via Docker:
+
+docker compose up -d
+
+Isso irá inicializar o contêiner do MySQL 8.0 na porta correta e popular o banco automaticamente.
+
+Executar o script de automação ETL:
+
+python gerar_relatorios.py
+
+--- 
+
+📊 Estrutura do Pipeline
+Extração: Consulta SQL direta no banco MySQL rodando no Docker.
+
+Transformação: Tratamento, segmentação e consolidação de dados via Pandas.
+
+Carga/Saída: Exportação formatada para consumo direto da equipe de negócios.
